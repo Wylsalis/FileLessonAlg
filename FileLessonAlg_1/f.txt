@@ -1,0 +1,6 @@
+5
+Larec178: Korona, Almaz
+Larec1044: Skipetr, Larec1, Derjava, Larec55
+Larec4: Algebra, Larec, Geometria, IT, Larec1044, Larec178
+Larec1: Korona, Almaz
+Larec2: Skipetr, Derjava, Larec1
